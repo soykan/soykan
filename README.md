@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 You can reach me with LinkedIn: [LinkedIn](https://www.linkedin.com/in/soykan/)
+- 📫 You can reach me with [LinkedIn](https://www.linkedin.com/in/soykan/)
 
 <!--
 **soykan/soykan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
